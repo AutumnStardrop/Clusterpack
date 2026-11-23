@@ -1,0 +1,15 @@
+0.1.0
+-Started logging changes
+-Nether Portal
+	-Revered direction of sham spin to match vanilla texture, and added another spinning head in the corners
+
+0.2.0
+-Zombified Piglins
+	-More like Xambified Piglin!
+-Red Shub
+	-She's watching you.
+-Fox
+	-Now with more Artic!
+-Eye of Ender
+	-Changed Eye of Ender and End Portal Frame to Monty
+-Replaced temp pack.png

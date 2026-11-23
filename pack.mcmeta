@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "A cluster of resource pack silliness",
+    "min_format": 70,
+    "max_format": 999
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "entity.creeper.primed": {
+    "sounds": [
+      {
+        "name": "minecraft:custom/summer_fuse",
+        "volume": 1.0,
+        "pitch": 2.0
+      }
+    ],
+    "replace": true,
+    "stream": true,
+    "subtitle": "subtitles.entity.creeper.primed"
+  }
+}
